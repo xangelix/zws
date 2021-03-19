@@ -52,6 +52,6 @@
 	"keywords": ["URL Shortener", "Node.js"],
 	"logo": "https://avatars.githubusercontent.com/u/53232036",
 	"name": "Custom ZWS Instance",
-	"repository": "https://github.com/zws-im/zws",
+	"repository": "https://github.com/xangelix/zws",
 	"website": "https://docs.zws.im"
 }
